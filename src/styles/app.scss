@@ -1,0 +1,9 @@
+.app-shell {
+  background-image:
+    radial-gradient(circle at top, color-mix(in srgb, white 92%, transparent), transparent 45%);
+
+  &__badge {
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+}
